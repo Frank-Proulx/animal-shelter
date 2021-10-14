@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(212, 222, 250);
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: rgb(138, 31, 31);
+}
+
+img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+.column {
+  float: left;
+  width: 17%;
+  padding: 3px;
+  margin: 28px;
+  margin-top: 40px; 
+  border: 2px solid blue;
+  box-sizing: border-box;
+  color: darkblue;
+  font-size: 25px;
+}
+
+.column p {
+  color: rgb(138, 31, 31);
+}
+
